@@ -1,7 +1,12 @@
-{
-  "short_text":"gayankuruppu/android-remote-config-lib",
-  "number":100,
-  "json_object":{"name":"John", "age":30, "city":"New York"},
-  "json_array":["John", "Anna", "Peter"],
-  "boolean":true
+{ "_ads comment": "0:OffAds & 1:OnAds",
+  "ads": [
+    {
+      "enable": "1",
+      "version_code": "2",
+      "banner_id":"ca-app-pub-3940256099942544/6300978111",
+      "interstial_id":"ca-app-pub-3940256099942544/8691691433",
+      "native_id":"ca-app-pub-3940256099942544/2247696110",
+      "appopen_id":"ca-app-pub-3940256099942544/3419835294"
+    }
+  ]
 }
