@@ -3,10 +3,34 @@
     {
       "enable": "1",
       "version_code": "2",
-      "banner_id":"ca-app-pub-3940256099942544/6300978111",
-      "interstial_id":"ca-app-pub-3940256099942544/8691691433",
-      "native_id":"ca-app-pub-3940256099942544/2247696110",
-      "appopen_id":"ca-app-pub-3940256099942544/3419835294"
+      
+      "banner_id_a":"ca-app-pub-3940256099942544/6300978111",
+      "banner_id_w":"ca-app-pub-3940256099942544/6300978111",
+      "banner_id_m":"ca-app-pub-3940256099942544/6300978111",
+      "banner_id_q":"ca-app-pub-3940256099942544/6300978111",
+      "banner_id_s":"ca-app-pub-3940256099942544/6300978111",
+      "banner_id_z":"ca-app-pub-3940256099942544/6300978111",
+      
+      "interstial_id_a":"ca-app-pub-3940256099942544/8691691433",
+      "interstial_id_w":"ca-app-pub-3940256099942544/8691691433",
+      "interstial_id_m":"ca-app-pub-3940256099942544/8691691433",
+      "interstial_id_q":"ca-app-pub-3940256099942544/8691691433",
+      "interstial_id_s":"ca-app-pub-3940256099942544/8691691433",
+      "interstial_id_z":"ca-app-pub-3940256099942544/8691691433",
+      
+       "native_id_a":"ca-app-pub-3940256099942544/2247696110",
+       "native_id_w":"ca-app-pub-3940256099942544/2247696110",
+       "native_id_m":"ca-app-pub-3940256099942544/2247696110",
+       "native_id_q":"ca-app-pub-3940256099942544/2247696110",
+       "native_id_s":"ca-app-pub-3940256099942544/2247696110",
+       "native_id_z":"ca-app-pub-3940256099942544/2247696110",
+      
+      "appopen_id_a":"ca-app-pub-3940256099942544/3419835294",
+      "appopen_id_w":"ca-app-pub-3940256099942544/3419835294",
+      "appopen_id_m":"ca-app-pub-3940256099942544/3419835294",
+      "appopen_id_q":"ca-app-pub-3940256099942544/3419835294",
+      "appopen_id_s":"ca-app-pub-3940256099942544/3419835294",
+      "appopen_id_z":"ca-app-pub-3940256099942544/3419835294"
     }
   ]
 }
