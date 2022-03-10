@@ -1,5 +1,4 @@
-[
-    {
+{
         "_ads comment": "0:OffAds & 1:OnAds",
         "ads": [
             {
@@ -49,5 +48,4 @@
                 "link": "https://play.google.com/store/apps/details?id=com.autostamper.datetimestampphoto"
             }
         ]
-    }
-]
+}
