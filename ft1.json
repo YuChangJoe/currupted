@@ -42,7 +42,7 @@
         "_transfer comment": "0:None & 1:Transfer",
         "transfer": [
             {
-                "enable": "1",
+                "enable": "0",
                 "transfer_title": "App Transfer",
                 "transfer_text": "Enjoy the latest app with Elegant layout and many more. Update app now...",
                 "link": "https://play.google.com/store/apps/details?id=com.autostamper.datetimestampphoto"
