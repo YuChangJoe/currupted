@@ -34,7 +34,7 @@
         "update": [
             {
                 "version_code": "40",
-                "update_type": "2",
+                "update_type": "0",
                 "update_title": "App Update",
                 "update_text": "Enjoy the latest update with Elegant layout and many more. Update app now..."
             }
@@ -42,7 +42,7 @@
         "_transfer comment": "0:None & 1:Transfer",
         "transfer": [
             {
-                "enable": "0",
+                "enable": "1",
                 "transfer_title": "App Transfer",
                 "transfer_text": "Enjoy the latest app with Elegant layout and many more. Update app now...",
                 "link": "https://play.google.com/store/apps/details?id=com.autostamper.datetimestampphoto"
