@@ -2,8 +2,8 @@
         "_ads comment": "0:OffAds & 1:OnAds",
         "ads": [
             {
-                "enable": "0",
-                "version_code": "9",
+                "enable": "1",
+                "version_code": "11",
                 "banner_id_a": "ca-app-pub-3940256099942544/6300978111",
                 "banner_id_w": "ca-app-pub-3940256099942544/6300978111",
                 "banner_id_m": "ca-app-pub-3940256099942544/6300978111",
