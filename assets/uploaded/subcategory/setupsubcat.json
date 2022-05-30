@@ -1,0 +1,21 @@
+{
+  "status": true,
+  "message": "Successfully data",
+  "category": {
+    "id": "38",
+    "name": "Meme",
+    "image": "http://wastickerapp.mobilehubs.website/assets/uploaded/category/16503608811171.png",
+    "subcategory": [
+      {
+        "id": "314",
+        "name": "Raju Meme Sticker",
+        "image": "http://wastickerapp.mobilehubs.website/assets/uploaded/subcategory/16503609844884.png"
+      },
+      {
+        "id": "315",
+        "name": "Hera Pheri Sticker",
+        "image": "http://wastickerapp.mobilehubs.website/assets/uploaded/subcategory/16503612396152.png"
+      }
+    ]
+  }
+}

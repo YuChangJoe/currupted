@@ -1,0 +1,50 @@
+{
+  "status": true,
+  "message": "Successfully data",
+  "category": [
+    {
+      "id": "34",
+      "name": "Maha ShivRatri",
+      "image": "http://wastickerapp.mobilehubs.website/assets/uploaded/category/16454473505485.png",
+      "subcategory": [
+        {
+          "id": "300",
+          "name": "Maha Shivratri Pack 1",
+          "image": "http://wastickerapp.mobilehubs.website/assets/uploaded/subcategory/16454473845099.png"
+        },
+        {
+          "id": "304",
+          "name": "MahaDev Pack 1",
+          "image": "http://wastickerapp.mobilehubs.website/assets/uploaded/subcategory/16454478785646.png"
+        },
+        {
+          "id": "305",
+          "name": "MahaDev Pack 2",
+          "image": "http://wastickerapp.mobilehubs.website/assets/uploaded/subcategory/16454479758072.png"
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "name": "Happy Holi",
+      "image": "http://wastickerapp.mobilehubs.website/assets/uploaded/category/16454265697736.png",
+      "subcategory": [
+        {
+          "id": "295",
+          "name": "Happy Holi Pack 5",
+          "image": "http://wastickerapp.mobilehubs.website/assets/uploaded/subcategory/16454339728285.png"
+        },
+        {
+          "id": "298",
+          "name": "Happy Holi Pack 7",
+          "image": "http://wastickerapp.mobilehubs.website/assets/uploaded/subcategory/16454351478548.png"
+        },
+        {
+          "id": "291",
+          "name": "Happy Holi Pack 2",
+          "image": "http://wastickerapp.mobilehubs.website/assets/uploaded/subcategory/16454287138925.png"
+        }
+      ]
+    }
+  ]
+}

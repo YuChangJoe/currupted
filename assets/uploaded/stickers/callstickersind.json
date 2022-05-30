@@ -1,0 +1,71 @@
+{
+    "status": true,
+    "message": "Successfully data",
+    "subcategory": {
+        "id": "314",
+        "name": "Raju Meme Sticker",
+        "image": "http://wastickerapp.mobilehubs.website/assets/uploaded/subcategory/16503609844884.png",
+        "stickers": [
+            {
+                "image": "165036101374510.webp"
+            },
+            {
+                "image": "165036101314632.webp"
+            },
+            {
+                "image": "165036101331121.webp"
+            },
+            {
+                "image": "165036101361134.webp"
+            },
+            {
+                "image": "165036101329603.webp"
+            },
+            {
+                "image": "165036101346246.webp"
+            },
+            {
+                "image": "165036101346383.webp"
+            },
+            {
+                "image": "165036101382443.webp"
+            },
+            {
+                "image": "165036101346783.webp"
+            },
+            {
+                "image": "165036101360411.webp"
+            },
+            {
+                "image": "165036101385303.webp"
+            },
+            {
+                "image": "165036101367874.webp"
+            },
+            {
+                "image": "165036101381696.webp"
+            },
+            {
+                "image": "165036101365532.webp"
+            },
+            {
+                "image": "165036101356282.webp"
+            },
+            {
+                "image": "165036101351847.webp"
+            },
+            {
+                "image": "165036101394249.webp"
+            },
+            {
+                "image": "165036101325452.webp"
+            },
+            {
+                "image": "165036101322939.webp"
+            },
+            {
+                "image": "165036101385341.webp"
+            }
+        ]
+    }
+}
