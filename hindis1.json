@@ -2,7 +2,7 @@
         "_ads comment": "0:OffAds & 1:OnAds",
         "ads": [
             {
-                "enable": "1",
+                "enable": "0",
                 "version_code": "19",
               
                 "shownativeads": "on",
