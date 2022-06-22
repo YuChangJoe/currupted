@@ -4,6 +4,14 @@
             {
                 "enable": "1",
                 "version_code": "9",
+                    
+                "shownativeads": "on",
+                "showinterads": "on",
+                "showbannerads": "on",
+                "showappopenads": "on",
+                "showqureca": "on",
+                "maininterclick": "3",
+                    
                 "banner_id_a": "ca-app-pub-3940256099942544/6300978111",
                 "banner_id_w": "ca-app-pub-3940256099942544/6300978111",
                 "banner_id_m": "ca-app-pub-3940256099942544/6300978111",
