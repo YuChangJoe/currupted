@@ -9,7 +9,7 @@
                 "showinterads": "on",
                 "showbannerads": "on",
                 "showappopenads": "on",
-                "showqureca": "on",
+                "showqureca": "off",
                 "maininterclick": "3",
                     
                 "banner_id_a": "ca-app-pub-3940256099942544/6300978111",
