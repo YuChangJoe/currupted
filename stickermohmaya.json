@@ -2,14 +2,14 @@
         "_ads comment": "0:OffAds & 1:OnAds",
         "ads": [
             {
-                "enable": "off",
+                "enable": "on",
                 "version_code": "9",
                     
                 "shownativeads": "on",
                 "showinterads": "on",
                 "showbannerads": "on",
                 "showappopenads": "on",
-                "showqureca": "off",
+                "showqureca": "on",
                 "maininterclick": "3",
                     
                 "banner_id_a": "ca-app-pub-3940256099942544/6300978111",
