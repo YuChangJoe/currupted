@@ -10,7 +10,7 @@
                 "showbannerads": "on",
                 "showappopenads": "on",
                 "showqureca": "on",
-                "playstoreratedialog": "3",
+                "playstoreratedialog": "on",
                 "maininterclick": "3",
                     
                 "banner_id_a": "ca-app-pub-3940256099942544/6300978111",
