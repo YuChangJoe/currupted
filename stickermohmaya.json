@@ -2,8 +2,8 @@
         "_ads comment": "0:OffAds & 1:OnAds",
         "ads": [
             {
-                "enable": "off",
-                "version_code": "9",
+                "enable": "on",
+                "version_code": "10",
                     
                 "shownativeads": "on",
                 "showinterads": "on",
