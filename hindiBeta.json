@@ -92,18 +92,11 @@
       "ad_showAdStatus": "1",
       "ad_loadAdIdsType": "1",
       "AppID": "ca-app-pub-3940256099942544~3347511713",
-      "Banner1": "",
-      "Interstitial1": "",
-      "Interstitial2": "",
-      "Interstitial3": "",
-      "Interstitial4": "",
-      "Interstitial5": "",
-      "Native1": "",
-      "Native2": "",
-      "Native3": "",
-      "RewardedVideo1": "",
-      "AppOpen1": "",
-      "AppOpen2": ""
+      "Banner1": "/6499/example/banner",
+      "Interstitial1": "/6499/example/interstitial",
+      "Native1": "/6499/example/native",
+      "RewardedVideo1": "/6499/example/app-open",
+      "AppOpen1": ""
     },
     "Facebookaudiencenetwork": {
       "ad_showAdStatus": "1",
