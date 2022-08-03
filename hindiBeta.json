@@ -29,7 +29,7 @@
     "app_howShowAdBanner": "0",
     "app_adPlatformSequenceBanner": "Admob,Facebookaudiencenetwork,MyCustomAds",
     "app_alernateAdShowBanner": "",
-    "app_mainClickCntSwAd": "0",
+    "app_mainClickCntSwAd": "2",
     "app_innerClickCntSwAd": "0",
     "Qurekalink": "http://946.win.qureka.com/",
     "PreadChampLink": "http://946.win.predchamp.com/",
@@ -71,7 +71,7 @@
     "elitedescription": "Enter Value",
     "launchScreen": "1",
     "interstitial": "1",
-    "interstitialBack": "0",
+    "interstitialBack": "1",
     "customAds": "0",
     "native": "1",
     "nativeBanner": "2",
@@ -84,7 +84,7 @@
     "ratedialog": "1",
     "qurekapredmglview": "1",
     "startScreen": "1",
-    "exitScreen": "0",
+    "exitScreen": "1",
     "privacyScreen": "0"
   },
   "PLACEMENT": {
