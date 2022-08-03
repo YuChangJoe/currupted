@@ -1,0 +1,236 @@
+{
+  "STATUS": true,
+  "MSG": "",
+  "APP_SETTINGS": {
+    "app_name": "Get Insta Likes And Followers",
+    "app_accountName": "True ID Caller Name & Location",
+    "app_accountLink": "",
+    "app_packageName": "com.example.fastfollower.hashtagig.iganalysis.getlike",
+    "app_logo": "https://play-lh.googleusercontent.com/kuQi3ep_nWN8cw0xCE69MpducwejE23E7Ks7gSsiru79oU5-Mui675JoOMb2fOewwoT3=w240-h480-rw",
+    "app_status": "Publish",
+    "app_privacyPolicyLink": "https://trueidcallernamelocation.blogspot.com/",
+    "app_needInternet": "1",
+    "app_updateAppDialogStatus": "0",
+    "app_versionCode": "2",
+    "app_redirectOtherAppStatus": "0",
+    "app_newPackageName": "https://play.google.com/store/apps/details?id=com.m.videosaver.download.allvideodownload",
+    "app_dialogBeforeAdShow": "0",
+    "app_adShowStatus": "1",
+    "app_AppOpenAdStatus": "1",
+    "app_howShowAd": "0",
+    "app_adPlatformSequence": "Admob,Facebookaudiencenetwork,MyCustomAds",
+    "app_alernateAdShow": "",
+    "app_howShowAdInterstitial": "0",
+    "app_adPlatformSequenceInterstitial": "Admob,Facebookaudiencenetwork,MyCustomAds",
+    "app_alernateAdShowInterstitial": "",
+    "app_howShowAdNative": "0",
+    "app_adPlatformSequenceNative": "Admob,Facebookaudiencenetwork,MyCustomAds",
+    "app_alernateAdShowNative": "",
+    "app_howShowAdBanner": "0",
+    "app_adPlatformSequenceBanner": "Admob,Facebookaudiencenetwork,MyCustomAds",
+    "app_alernateAdShowBanner": "",
+    "app_mainClickCntSwAd": "0",
+    "app_innerClickCntSwAd": "0",
+    "Qurekalink": "http://946.win.qureka.com/",
+    "PreadChampLink": "http://946.win.predchamp.com/",
+    "MGLLink": "https://11.go.mglgamez.com/",
+    "SplshScreen": "1",
+    "ExitScreen": "1",
+    "Qurekalinkbutton": "1",
+    "PreadChampLinkButton": "1",
+    "MGLLinkButtton": "1",
+    "QurekaHeader": "1",
+    "QurekaHeaderLink": "http://946.win.qureka.com/",
+    "ExtraSceen1": "1",
+    "ExtraSceen2": "1",
+    "Qurekaimage": "https://dandrosoft.com//Qureka/2.gif",
+    "PreadChampImage": "https://dandrosoft.com//Preadmchamp/1080X1080_14.png",
+    "MGLImage": "https://dandrosoft.com/MGL/CT200x200_4.gif",
+    "HeaderImage": "https://dandrosoft.com//Qureka/2.gif",
+    "CustomAdsInterstitial": "1",
+    "ExtraSceen3": "1",
+    "ExtraSceen4": "1",
+    "ExtraSceen5": "1",
+    "Oddthirdpartyapp": "1",
+    "Oddthirdpartyapplink": "com.trueid.callername.callerscreenid.locationtracker/Caller ID & Block",
+    "Oddthirdpartyapplogo": "https://play-lh.googleusercontent.com/2PNoVGbZfv-W7JGkiY9PCS4Po8tfSIxs-yNmCUhJBm_pgN6vBFYaaL6Su1x9dHleAoU=s180",
+    "Eventhirdpartyapp": "1",
+    "Eventhirdpartyapplink": "Enter Value",
+    "Eventhirdpartyapplogo": "Enter Value",
+    "Headerappbutton": "1",
+    "Headerapppackagename": "Enter Value",
+    "Headerapplogo": "Enter Value",
+    "Giftboxads": "1",
+    "blogb0": "1",
+    "blogb0link": "Enter Value",
+    "blogb0logo": "Enter Value",
+    "elitebutton": "1",
+    "elitelink": "Enter Value",
+    "elitetitle": "Enter Value",
+    "elitlogourl": "Enter Value",
+    "elitedescription": "Enter Value",
+    "launchScreen": "0",
+    "interstitial": "1",
+    "interstitialBack": "0",
+    "customAds": "0",
+    "native": "1",
+    "nativeBanner": "2",
+    "nativespacebox": "1",
+    "nativespaceboxColor": "eeeeee",
+    "nativebg": "eeeeee",
+    "nativetitle": "515151",
+    "nativebutton": "A40000",
+    "nativedescription": "515151",
+    "ratedialog": "1",
+    "qurekapredmglview": "1",
+    "startScreen": "1",
+    "exitScreen": "0",
+    "privacyScreen": "0"
+  },
+  "PLACEMENT": {
+    "Admob": {
+      "ad_showAdStatus": "1",
+      "ad_loadAdIdsType": "1",
+      "AppID": "ca-app-pub-3940256099942544~3347511713",
+      "Banner1": "",
+      "Interstitial1": "",
+      "Interstitial2": "",
+      "Interstitial3": "",
+      "Interstitial4": "",
+      "Interstitial5": "",
+      "Native1": "",
+      "Native2": "",
+      "Native3": "",
+      "RewardedVideo1": "",
+      "AppOpen1": "",
+      "AppOpen2": ""
+    },
+    "Facebookaudiencenetwork": {
+      "ad_showAdStatus": "1",
+      "ad_loadAdIdsType": "0",
+      "Banner1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "Interstitial1": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "Native1": "VID_HD_9_16_39S_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "RewardedVideo1": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "NativeBanner1": "VID_HD_16_9_15S_LINK#YOUR_PLACEMENT_ID"
+    },
+    "MyCustomAds": {
+      "ad_showAdStatus": "1",
+      "ad_loadAdIdsType": "0"
+    }
+  },
+  "Advertise_List": [
+    {
+      "ad_id": "7",
+      "app_name": "MGL/Play Game",
+      "app_packageName": "https://11.go.mglgamez.com/",
+      "app_logo": "http://dandrosoft.com/AppsManager/upload/app/AppLogo2bb443cc118ff31da2ad34716e4eec8b.gif",
+      "app_banner": "http://dandrosoft.com/AppsManager/upload/app/AppBannerd9c8fd6927b8036c7ac4c7db8204ca99.png",
+      "app_shortDecription": "Play Car Racing Game & Earn Upto 50,000 Coins\r\n ",
+      "app_buttonName": "",
+      "app_rating": "5",
+      "app_download": "120",
+      "app_AdFormat": "Banner,NativeBanner,Native,Interstitial,AppOpen"
+    },
+    {
+      "ad_id": "5",
+      "app_name": "Preadchamp/Play Game",
+      "app_packageName": "http://946.win.predchamp.com/",
+      "app_logo": "http://dandrosoft.com/AppsManager/upload/app/AppLogo88ff41108cf424b929d2866b3792ca68.gif",
+      "app_banner": "http://dandrosoft.com/AppsManager/upload/app/AppBannerb24b7cdb145efb35f814253c6aa688b9.png",
+      "app_shortDecription": "Play Bollywood Prediction  & win coins daily\r\n\r\n  ",
+      "app_buttonName": "",
+      "app_rating": "5",
+      "app_download": "100",
+      "app_AdFormat": "Banner,NativeBanner,Native,Interstitial,AppOpen"
+    },
+    {
+      "ad_id": "3",
+      "app_name": "Qureka Lite/Play Game",
+      "app_packageName": "http://946.win.qureka.com/",
+      "app_logo": "http://dandrosoft.com/AppsManager/upload/app/AppLogo178ae62e7117e35d8181c043160d0ea2.gif",
+      "app_banner": "http://dandrosoft.com/AppsManager/upload/app/AppBannerc6f8a1a0321f50c67180261f3939a3e6.jpg",
+      "app_shortDecription": "Play Quiz & Win Upto 50,000 Coins\r\n ",
+      "app_buttonName": "",
+      "app_rating": "5",
+      "app_download": "500",
+      "app_AdFormat": "Banner,NativeBanner,Native,Interstitial,AppOpen"
+    }
+  ],
+  "MORE_APP_SPLASH": [
+    {
+      "app_id": "511",
+      "app_name": "True ID Caller - Phone Number",
+      "app_packageName": "com.m.trueid.callerlocation.familylocator",
+      "app_logo": "https://play-lh.googleusercontent.com/0kJCc7UUKJyEH4clip7LuNvpvZD-U-tMVz3p-m_JoHy74Zzj77F2qfveh6Cu-xpKqqrn=s180",
+      "app_status": "Publish"
+    },
+    {
+      "app_id": "515",
+      "app_name": "GB Latest Version",
+      "app_packageName": "com.m.gbwhatsapp.gblatestversion.pro",
+      "app_logo": "https://play-lh.googleusercontent.com/3sDvUOPtzMKuxL6EfLsz9GC4kTvoSXN1hXSttVBCOCofI6w8KQqkJPT8SGTOW2kBtDk=s180",
+      "app_status": "Publish"
+    },
+    {
+      "app_id": "510",
+      "app_name": "Chat Styles Fonts for Whatsapp",
+      "app_packageName": "com.m.fancyfont.stylishtext.chatstyle.whastapp",
+      "app_logo": "https://play-lh.googleusercontent.com/mAoYKrxFj0ZzQ6LYVV83DYDgL2YjI9ipU9EO3OLCbLgUa1B-8AIs58NkWhYIGf1cPvul=s180",
+      "app_status": "Publish"
+    },
+    {
+      "app_id": "508",
+      "app_name": "Caller ID - True Spam Blocker",
+      "app_packageName": "com.m.truecaller.callerid.callerscreen.personalscreen",
+      "app_logo": "https://play-lh.googleusercontent.com/XfM5SUCYs3trtVc8h5iz2bm6u_9KP9diw7O3JQw0ePZ5Gb5ggVdifv6OCavl_1ApUw=s180",
+      "app_status": "Publish"
+    }
+  ],
+  "MORE_APP_EXIT": [
+    {
+      "app_id": "511",
+      "app_name": "True ID Caller - Phone Number",
+      "app_packageName": "com.m.trueid.callerlocation.familylocator",
+      "app_logo": "https://play-lh.googleusercontent.com/0kJCc7UUKJyEH4clip7LuNvpvZD-U-tMVz3p-m_JoHy74Zzj77F2qfveh6Cu-xpKqqrn=s180",
+      "app_status": "Publish"
+    },
+    {
+      "app_id": "515",
+      "app_name": "GB Latest Version",
+      "app_packageName": "com.m.gbwhatsapp.gblatestversion.pro",
+      "app_logo": "https://play-lh.googleusercontent.com/3sDvUOPtzMKuxL6EfLsz9GC4kTvoSXN1hXSttVBCOCofI6w8KQqkJPT8SGTOW2kBtDk=s180",
+      "app_status": "Publish"
+    },
+    {
+      "app_id": "510",
+      "app_name": "Chat Styles Fonts for Whatsapp",
+      "app_packageName": "com.m.fancyfont.stylishtext.chatstyle.whastapp",
+      "app_logo": "https://play-lh.googleusercontent.com/mAoYKrxFj0ZzQ6LYVV83DYDgL2YjI9ipU9EO3OLCbLgUa1B-8AIs58NkWhYIGf1cPvul=s180",
+      "app_status": "Publish"
+    },
+    {
+      "app_id": "508",
+      "app_name": "Caller ID - True Spam Blocker",
+      "app_packageName": "com.m.truecaller.callerid.callerscreen.personalscreen",
+      "app_logo": "https://play-lh.googleusercontent.com/XfM5SUCYs3trtVc8h5iz2bm6u_9KP9diw7O3JQw0ePZ5Gb5ggVdifv6OCavl_1ApUw=s180",
+      "app_status": "Publish"
+    }
+  ],
+  "EXTRA_DATA": {
+    "qurekapredmglurl": [
+      {
+        "url": "http://946.win.qureka.com/"
+      },
+      {
+        "url": "https://play301.atmequiz.com/start"
+      },
+      {
+        "url": "http://946.win.predchamp.com/"
+      },
+      {
+        "url": "https://11.go.mglgamez.com/"
+      }
+    ]
+  }
+}
