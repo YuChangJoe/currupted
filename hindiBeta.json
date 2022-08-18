@@ -112,30 +112,22 @@
   "MORE_APP_EXIT": [
     {
       "app_id": "511",
-      "app_name": "True ID Caller - Phone Number",
-      "app_packageName": "com.m.trueid.callerlocation.familylocator",
-      "app_logo": "https://play-lh.googleusercontent.com/0kJCc7UUKJyEH4clip7LuNvpvZD-U-tMVz3p-m_JoHy74Zzj77F2qfveh6Cu-xpKqqrn=s180",
-      "app_status": "Publish"
+      "app_name": "Hindi Stickers for chat : Text stickers app",
+      "app_packageName": "com.wastickerapp.hindistickerfun",
+      "app_logo": "https://play-lh.googleusercontent.com/7YvetEY1t2XHYY8VQT66CmC1P05974YgIQ_p9Sb72GH15ItcILc8QqO4fPFzOyGyM44=s180
     },
     {
       "app_id": "515",
-      "app_name": "GB Latest Version",
-      "app_packageName": "com.m.gbwhatsapp.gblatestversion.pro",
-      "app_logo": "https://play-lh.googleusercontent.com/3sDvUOPtzMKuxL6EfLsz9GC4kTvoSXN1hXSttVBCOCofI6w8KQqkJPT8SGTOW2kBtDk=s180",
+      "app_name": "Tamil comedy stickers for chat : Text stickers app",
+      "app_packageName": "com.wastickerapp.tamilsticker",
+      "app_logo": "https://play-lh.googleusercontent.com/fs78cb9HI74UjTvyiQhfAmXpebmEAjlBwoKa9akvngsYIkTAcI1hUg_xvORFk6V9EPM=s180",
       "app_status": "Publish"
     },
     {
       "app_id": "510",
-      "app_name": "Chat Styles Fonts for Whatsapp",
-      "app_packageName": "com.m.fancyfont.stylishtext.chatstyle.whastapp",
-      "app_logo": "https://play-lh.googleusercontent.com/mAoYKrxFj0ZzQ6LYVV83DYDgL2YjI9ipU9EO3OLCbLgUa1B-8AIs58NkWhYIGf1cPvul=s180",
-      "app_status": "Publish"
-    },
-    {
-      "app_id": "508",
-      "app_name": "Caller ID - True Spam Blocker",
-      "app_packageName": "com.m.truecaller.callerid.callerscreen.personalscreen",
-      "app_logo": "https://play-lh.googleusercontent.com/XfM5SUCYs3trtVc8h5iz2bm6u_9KP9diw7O3JQw0ePZ5Gb5ggVdifv6OCavl_1ApUw=s180",
+      "app_name": "Hindi Text Stickers : Comedy sticker for chat",
+      "app_packageName": "com.wastickerapp.funnyhindisticker",
+      "app_logo": "https://play-lh.googleusercontent.com/rO4Knqpy3vxPRsLg-jEHE1I5IRMKBECvdzlv5aGlkK0MFTGnd6f6iIEJC15vXkXJCw=s180",
       "app_status": "Publish"
     }
   ],
