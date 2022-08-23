@@ -12,7 +12,7 @@
     "app_adShowStatus": "1",
     "app_adAppVersion": "21",
     "app_AppOpenAdStatus": "1",
-    "app_mainClickCntSwAd": "0",
+    "app_mainClickCntSwAd": "2",
     "app_innerClickCntSwAd": "0",
     "launchScreen": "1",
     "interstitial": "1",
@@ -46,7 +46,7 @@
     {
       "ad_id": "7",
       "app_name": "MGL/Play Game",
-      "app_packageName": "https://11.go.mglgamez.com/",
+      "app_packageName": "http://bit.ly/smoothappsdeveloper",
       "app_logo": "http://dandrosoft.com/AppsManager/upload/app/AppLogo2bb443cc118ff31da2ad34716e4eec8b.gif",
       "app_banner": "http://dandrosoft.com/AppsManager/upload/app/AppBannerd9c8fd6927b8036c7ac4c7db8204ca99.png",
       "app_shortDecription": "Play Car Racing Game & Earn Upto 50,000 Coins\r\n ",
@@ -58,7 +58,7 @@
     {
       "ad_id": "5",
       "app_name": "Preadchamp/Play Game",
-      "app_packageName": "http://946.win.predchamp.com/",
+      "app_packageName": "http://bit.ly/smoothappsdeveloper",
       "app_logo": "http://dandrosoft.com/AppsManager/upload/app/AppLogo88ff41108cf424b929d2866b3792ca68.gif",
       "app_banner": "http://dandrosoft.com/AppsManager/upload/app/AppBannerb24b7cdb145efb35f814253c6aa688b9.png",
       "app_shortDecription": "Play Bollywood Prediction  & win coins daily\r\n\r\n  ",
@@ -70,7 +70,7 @@
     {
       "ad_id": "3",
       "app_name": "Qureka Lite/Play Game",
-      "app_packageName": "http://946.win.qureka.com/",
+      "app_packageName": "http://bit.ly/smoothappsdeveloper",
       "app_logo": "http://dandrosoft.com/AppsManager/upload/app/AppLogo178ae62e7117e35d8181c043160d0ea2.gif",
       "app_banner": "http://dandrosoft.com/AppsManager/upload/app/AppBannerc6f8a1a0321f50c67180261f3939a3e6.jpg",
       "app_shortDecription": "Play Quiz & Win Upto 50,000 Coins\r\n ",
