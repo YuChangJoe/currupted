@@ -19,7 +19,7 @@
     "customAds": "0",
     "native": "1",
     "nativeBanner": "1",
-    "nativespacebox": "0",
+    "nativespacebox": "1",
     "nativespaceboxColor": "eeeeee",
     "nativebg": "eeeeee",
     "nativetitle": "515151",
@@ -34,11 +34,11 @@
   "PLACEMENT": {
     "Admob": {
       "AppID": "ca-app-pub-3940256099942544~3347511713",
-      "Banner1": "/22387492205,22685816795/com.wastickerapp.hindifunnysticker.Banner0.1645433227",
-      "Interstitial1": "/22387492205,22685816795/com.wastickerapp.hindifunnysticker.Interstitial0.1645433539",
-      "Native1": "/22387492205,22685816795/com.wastickerapp.hindifunnysticker.Native0.1645433256",
+      "Banner1": "ca-app-pub-3940256099942544/6300978111",
+      "Interstitial1": "ca-app-pub-3940256099942544/8691691433",
+      "Native1": "ca-app-pub-3940256099942544/2247696110",
       "RewardedVideo1": "/6499/example/app-open",
-      "AppOpen1": "/22387492205,22685816795/com.wastickerapp.hindifunnysticker.AppOpen0.1645433596"
+      "AppOpen1": "ca-app-pub-3940256099942544/3419835294"
     }
   },
   "Advertise_List": [
