@@ -6,9 +6,9 @@
                 "version_code": "10",
                     
                 "shownativeads": "on",
-                "showinterads": "on",
+                "showinterads": "off",
                 "showbannerads": "on",
-                "showappopenads": "on",
+                "showappopenads": "off",
                 "showqureca": "on",
                 "playstoreratedialog": "on",
                 "maininterclick": "3",
