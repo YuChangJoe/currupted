@@ -1,189 +1,51 @@
 {
-  "STATUS": true,
-  "MSG": "",
-  "APP_SETTINGS": {
-    "app_privacyPolicyLink": "https://sites.google.com/view/androappsource",
-    "app_needInternet": "1",
-    "app_updateAppDialogStatus": "1",
-    "app_versionCode": "21",
-    "app_redirectOtherAppStatus": "0",
-    "app_newPackageName": "https://play.google.com/store/apps/details?id=com.meesho.supply",
-    "app_dialogBeforeAdShow": "1",
-    "app_adShowStatus": "1",
-    "app_adAppVersion": "24",
-    "app_AppOpenAdStatus": "1",
-    "app_mainClickCntSwAd": "2",
-    "app_innerClickCntSwAd": "0",
-    "launchScreen": "1",
-    "interstitial": "1",
-    "interstitialBack": "1",
-    "customAds": "1",
-    "native": "1",
-    "nativeBanner": "1",
-    "nativespacebox": "1",
-    "nativespaceboxColor": "eeeeee",
-    "nativebg": "eeeeee",
-    "nativetitle": "515151",
-    "nativebutton": "05B970",
-    "nativedescription": "515151",
-    "ratedialog": "1",
-    "qurekapredmglview": "0",
-    "startScreen": "1",
-    "exitScreen": "1",
-    "privacyScreen": "0"
-  },
-  "PLACEMENT": {
-    "Admob": {
-      "AppID": "ca-app-pub-3940256099942544~3347511713",
-       "Banner1": "/22387492205,22685816795/com.wastickerapp.hindifunnysticker.Banner1.1661266577",
-      "Interstitial1": "/22387492205,22685816795/com.wastickerapp.hindifunnysticker.Interstitial1.1661266620",
-      "Native1": "/22387492205,22685816795/com.wastickerapp.hindifunnysticker.Native1.1661266603",
-      "RewardedVideo1": "/6499/example/app-open",
-      "AppOpen1": "/22387492205,22685816795/com.wastickerapp.hindifunnysticker.AppOpen1.1661266644"
-    }
-  },
-  "Advertise_List": [
-    {
-      "ad_id": "7",
-      "app_name": "MGL/Play Game",
-      "app_packageName": "http://bit.ly/smoothappsdeveloper",
-      "app_logo": "http://dandrosoft.com/AppsManager/upload/app/AppLogo2bb443cc118ff31da2ad34716e4eec8b.gif",
-      "app_banner": "http://dandrosoft.com/AppsManager/upload/app/AppBannerd9c8fd6927b8036c7ac4c7db8204ca99.png",
-      "app_shortDecription": "Play Car Racing Game & Earn Upto 50,000 Coins\r\n ",
-      "app_buttonName": "",
-      "app_rating": "5",
-      "app_download": "120",
-      "app_AdFormat": "Banner,NativeBanner,Native,Interstitial,AppOpen"
-    },
-    {
-      "ad_id": "5",
-      "app_name": "Preadchamp/Play Game",
-      "app_packageName": "http://bit.ly/smoothappsdeveloper",
-      "app_logo": "http://dandrosoft.com/AppsManager/upload/app/AppLogo88ff41108cf424b929d2866b3792ca68.gif",
-      "app_banner": "http://dandrosoft.com/AppsManager/upload/app/AppBannerb24b7cdb145efb35f814253c6aa688b9.png",
-      "app_shortDecription": "Play Bollywood Prediction  & win coins daily\r\n\r\n  ",
-      "app_buttonName": "",
-      "app_rating": "5",
-      "app_download": "100",
-      "app_AdFormat": "Banner,NativeBanner,Native,Interstitial,AppOpen"
-    },
-    {
-      "ad_id": "3",
-      "app_name": "Qureka Lite/Play Game",
-      "app_packageName": "http://bit.ly/smoothappsdeveloper",
-      "app_logo": "http://dandrosoft.com/AppsManager/upload/app/AppLogo178ae62e7117e35d8181c043160d0ea2.gif",
-      "app_banner": "http://dandrosoft.com/AppsManager/upload/app/AppBannerc6f8a1a0321f50c67180261f3939a3e6.jpg",
-      "app_shortDecription": "Play Quiz & Win Upto 50,000 Coins\r\n ",
-      "app_buttonName": "",
-      "app_rating": "5",
-      "app_download": "500",
-      "app_AdFormat": "Banner,NativeBanner,Native,Interstitial,AppOpen"
-    }
-  ],
-  "MORE_APP_SPLASH": [
-    {
-      "app_id": "511",
-      "app_name": "Hindi Stickers for chat : Text stickers app",
-      "app_packageName": "com.wastickerapp.hindistickerfun",
-      "app_logo": "https://play-lh.googleusercontent.com/7YvetEY1t2XHYY8VQT66CmC1P05974YgIQ_p9Sb72GH15ItcILc8QqO4fPFzOyGyM44=s180",
-      "app_status": "Publish"
-    },
-    {
-      "app_id": "515",
-      "app_name": "Tamil comedy stickers for chat : Text stickers app",
-      "app_packageName": "com.wastickerapp.tamilsticker",
-      "app_logo": "https://play-lh.googleusercontent.com/fs78cb9HI74UjTvyiQhfAmXpebmEAjlBwoKa9akvngsYIkTAcI1hUg_xvORFk6V9EPM=s180",
-      "app_status": "Publish"
-    },
-    {
-      "app_id": "510",
-      "app_name": "Hindi Text Stickers : Comedy sticker for chat",
-      "app_packageName": "com.wastickerapp.funnyhindisticker",
-      "app_logo": "https://play-lh.googleusercontent.com/rO4Knqpy3vxPRsLg-jEHE1I5IRMKBECvdzlv5aGlkK0MFTGnd6f6iIEJC15vXkXJCw=s180",
-      "app_status": "Publish"
-    }
-  ],
-  "MORE_APP_EXIT": [
-    {
-      "app_id": "511",
-      "app_name": "Hindi Stickers for chat : Text stickers app",
-      "app_packageName": "com.wastickerapp.hindistickerfun",
-      "app_logo": "https://play-lh.googleusercontent.com/7YvetEY1t2XHYY8VQT66CmC1P05974YgIQ_p9Sb72GH15ItcILc8QqO4fPFzOyGyM44=s180",
-      "app_status": "Publish"
-    },
-    {
-      "app_id": "515",
-      "app_name": "Tamil comedy stickers for chat : Text stickers app",
-      "app_packageName": "com.wastickerapp.tamilsticker",
-      "app_logo": "https://play-lh.googleusercontent.com/fs78cb9HI74UjTvyiQhfAmXpebmEAjlBwoKa9akvngsYIkTAcI1hUg_xvORFk6V9EPM=s180",
-      "app_status": "Publish"
-    },
-    {
-      "app_id": "510",
-      "app_name": "Hindi Text Stickers : Comedy sticker for chat",
-      "app_packageName": "com.wastickerapp.funnyhindisticker",
-      "app_logo": "https://play-lh.googleusercontent.com/rO4Knqpy3vxPRsLg-jEHE1I5IRMKBECvdzlv5aGlkK0MFTGnd6f6iIEJC15vXkXJCw=s180",
-      "app_status": "Publish"
-    }
-  ],
-  "EXTRA_DATA": {
-    "qurekapredmglurl": [
-      {
-        "url": "http://bit.ly/smoothappsdeveloper"
-      },
-      {
-        "url": "http://bit.ly/smoothappsdeveloper"
-      },
-      {
-        "url": "http://bit.ly/smoothappsdeveloper"
-      },
-      {
-        "url": "http://bit.ly/smoothappsdeveloper"
-      }
-    ],
-    "headerGif": [
-{
-	        "url": "http://reylioinfotech.com/reyliocoffee/images/DI/headergif/header2.gif"
-},
-{
-	        "url": "http://reylioinfotech.com/reyliocoffee/images/DI/headergif/header8.gif"
-},
-{
-	        "url": "http://reylioinfotech.com/reyliocoffee/images/DI/headergif/header13.gif"
-},
-{
-	        "url": "http://reylioinfotech.com/reyliocoffee/images/DI/headergif/header6.gif"
-},
-{
-	        "url": "http://reylioinfotech.com/reyliocoffee/images/DI/headergif/header9.gif"
-},
-{
-	        "url": "http://reylioinfotech.com/reyliocoffee/images/DI/headergif/header11.gif"
-},
-{
-	        "url": "http://reylioinfotech.com/reyliocoffee/images/DI/headergif/header10.gif"
-},
-{
-	        "url": "http://reylioinfotech.com/reyliocoffee/images/DI/headergif/header14.gif"
-},
-{
-	        "url": "http://reylioinfotech.com/reyliocoffee/images/DI/headergif/header4.gif"
-},
-{
-	        "url": "http://reylioinfotech.com/reyliocoffee/images/DI/headergif/header1.gif"
-},
-{
-	        "url": "http://reylioinfotech.com/reyliocoffee/images/DI/headergif/header7.gif"
-},
-{
-	        "url": "http://reylioinfotech.com/reyliocoffee/images/DI/headergif/header5.gif"
-},
-{
-	        "url": "http://reylioinfotech.com/reyliocoffee/images/DI/headergif/header3.gif"
-},
-{
-	        "url": "http://reylioinfotech.com/reyliocoffee/images/DI/headergif/header12.gif"
-}
-]
-  }
+        "_ads comment": "0:OffAds & 1:OnAds",
+        "ads": [
+            {
+                "enable": "0",
+                "version_code": "13",
+                "banner_id_a": "ca-app-pub-3940256099942544/6300978111",
+                "banner_id_w": "ca-app-pub-3940256099942544/6300978111",
+                "banner_id_m": "ca-app-pub-3940256099942544/6300978111",
+                "banner_id_q": "/22387492205,22685816795/com.livesoccertv.footballlivescoretv.Banner0.1649048310",
+                "banner_id_s": "ca-app-pub-3940256099942544/6300978111",
+                "banner_id_z": "ca-app-pub-3940256099942544/6300978111",
+                "interstial_id_a": "ca-app-pub-3940256099942544/1033173712",
+                "interstial_id_w": "ca-app-pub-3940256099942544/8691691433",
+                "interstial_id_m": "ca-app-pub-3940256099942544/8691691433",
+                "interstial_id_q": "/22387492205,22685816795/com.livesoccertv.footballlivescoretv.Interstitial0.1649048399",
+                "interstial_id_s": "ca-app-pub-3940256099942544/8691691433",
+                "interstial_id_z": "ca-app-pub-3940256099942544/8691691433",
+                "native_id_a": "ca-app-pub-3940256099942544/2247696110",
+                "native_id_w": "ca-app-pub-3940256099942544/2247696110",
+                "native_id_m": "ca-app-pub-3940256099942544/2247696110",
+                "native_id_q": "/22387492205,22685816795/com.livesoccertv.footballlivescoretv.Native0.1649048344",
+                "native_id_s": "ca-app-pub-3940256099942544/2247696110",
+                "native_id_z": "ca-app-pub-3940256099942544/2247696110",
+                "appopen_id_a": "ca-app-pub-3940256099942544/3419835294",
+                "appopen_id_w": "ca-app-pub-3940256099942544/3419835294",
+                "appopen_id_m": "ca-app-pub-3940256099942544/3419835294",
+                "appopen_id_q": "/22387492205,22685816795/com.livesoccertv.footballlivescoretv.AppOpen0.1649048425",
+                "appopen_id_s": "ca-app-pub-3940256099942544/3419835294",
+                "appopen_id_z": "ca-app-pub-3940256099942544/3419835294"
+            }
+        ],
+        "_update comment": "0:None & 1:Normal & 2:Force",
+        "update": [
+            {
+                "version_code": "12",
+                "update_type": "2",
+                "update_title": "App Update",
+                "update_text": "Enjoy the latest update with Elegant layout and many more. Update app now..."
+            }
+        ],
+        "_transfer comment": "0:None & 1:Transfer",
+        "transfer": [
+            {
+                "enable": "0",
+                "transfer_title": "App Transfer",
+                "transfer_text": "Enjoy the latest app with Elegant layout and many more. Update app now...",
+                "link": "https://play.google.com/store/apps/details?id=com.autostamper.datetimestampphoto"
+            }
+        ]
 }
