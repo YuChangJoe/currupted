@@ -16,6 +16,7 @@
     "app_innerClickCntSwAd": "0",
     "launchScreen": "1",
     "interstitial": "1",
+    "appOpenAdShow": "1",
     "interstitialBack": "1",
     "customAds": "1",
     "native": "1",
