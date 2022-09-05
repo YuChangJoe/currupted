@@ -17,7 +17,7 @@
     "launchScreen": "1",
     "interstitial": "1",
     "interstitialBack": "1",
-    "customAds": "1",
+    "customAds": "0",
     "native": "1",
     "nativeBanner": "1",
     "nativespacebox": "1",
