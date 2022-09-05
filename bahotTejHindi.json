@@ -35,11 +35,11 @@
   "PLACEMENT": {
     "Admob": {
       "AppID": "ca-app-pub-3940256099942544~3347511713",
-       "Banner1": "/22387492205,22685816795/com.wastickerapp.hindifunnysticker.Banner1.1661266577",
-      "Interstitial1": "/22387492205,22685816795/com.wastickerapp.hindifunnysticker.Interstitial1.1661266620",
-      "Native1": "/22387492205,22685816795/com.wastickerapp.hindifunnysticker.Native1.1661266603",
+       "Banner1": "/6499/example/banner",
+      "Interstitial1": "/6499/example/interstitial",
+      "Native1": "/6499/example/native",
       "RewardedVideo1": "/6499/example/app-open",
-      "AppOpen1": "/22387492205,22685816795/com.wastickerapp.hindifunnysticker.AppOpen1.1661266644"
+      "AppOpen1": "/6499/example/app-open"
     }
   },
   "Advertise_List": [
