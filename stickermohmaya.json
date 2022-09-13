@@ -5,13 +5,13 @@
                 "enable": "on",
                 "version_code": "10",
                     
-                "shownativeads": "on",
+                "shownativeads": "off",
                 "showinterads": "off",
                 "showbannerads": "on",
                 "showappopenads": "off",
-                "showqureca": "on",
+                "showqureca": "off",
                 "playstoreratedialog": "on",
-                "maininterclick": "3",
+                "maininterclick": "6",
                     
                 "nativespaceboxColor": "eeeeee",
                 "nativebg": "eeeeee",
