@@ -13,6 +13,12 @@
                 "playstoreratedialog": "on",
                 "maininterclick": "3",
                     
+                "nativespaceboxColor": "eeeeee",
+                "nativebg": "eeeeee",
+                "nativetitle": "515151",
+                "nativebutton": "ff8f00",
+                "nativedescription": "515151",
+                    
                 "banner_id_a": "ca-app-pub-3940256099942544/6300978111",
                 "banner_id_w": "ca-app-pub-3940256099942544/6300978111",
                 "banner_id_m": "ca-app-pub-3940256099942544/6300978111",
