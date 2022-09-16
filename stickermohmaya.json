@@ -3,7 +3,7 @@
         "ads": [
             {
                 "enable": "on",
-                "version_code": "10",
+                "version_code": "11",
                     
                 "shownativeads": "off",
                 "showinterads": "off",
