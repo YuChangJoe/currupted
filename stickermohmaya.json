@@ -5,7 +5,7 @@
                 "enable": "on",
                 "version_code": "11",
                     
-                "shownativeads": "off",
+                "shownativeads": "on",
                 "showinterads": "off",
                 "showbannerads": "on",
                 "showappopenads": "off",
