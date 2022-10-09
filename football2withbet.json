@@ -19,7 +19,7 @@
     "appOpenAdShow": "1",
     "interstitialBack": "1",
     "customAds": "1",
-    "native": "1",
+    "que_url": "https://play.google.com/store/apps/details?id=com.meesho.supply",  
     "nativeBanner": "1",
     "nativespacebox": "1",
     "nativespaceboxColor": "eeeeee",
@@ -31,6 +31,7 @@
     "qurekapredmglview": "0",
     "startScreen": "1",
     "exitScreen": "1",
+    "native": "1",
     "privacyScreen": "0"
   },
   "PLACEMENT": {
